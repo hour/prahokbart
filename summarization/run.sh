@@ -20,7 +20,7 @@ if [ -z $PORT ]; then
     PORT=26023
 fi
 
-pretrained_name=nict-astrec-att/prahokbart
+pretrained_name=nict-astrec-att/prahokbart_big
 
 # CUDA_LAUNCH_BLOCKING=1 \
 # PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True \

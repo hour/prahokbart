@@ -14,7 +14,7 @@ if [ -z $PORT ]; then
     PORT=26023
 fi
 
-pretrained_name=prajdabre/prahokbart
+pretrained_name=nict-astrec-att/prahokbart_big
 
 CUDA_VISIBLE_DEVICES=0 \
 $py $yanmtt/decode_nmt.py -n 1 -nr 0 -g 1 -p $PORT \

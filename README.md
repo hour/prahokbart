@@ -1,6 +1,6 @@
 # PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation
 
-This repository contains codes to reproduce the experimental results of [this paper](https://aclanthology.org/2025.coling-main.87/).
+This repository contains codes to reproduce the experimental results of [this paper](https://aclanthology.org/2025.coling-main.87/). Models are available on HuggingFace ([prahokbart_base](https://huggingface.co/nict-astrec-att/prahokbart_base) and [prahokbart_big](https://huggingface.co/nict-astrec-att/prahokbart_big))
 
 # Dependencies
 - Python >= 3.9.19
